@@ -2,10 +2,6 @@
 
 Automatic script to install Dokploy with private IP address configuration.
 
-## 🌍 Languages / Bahasa
-- 🇺🇸 [English](README-EN.md) - Full English documentation
-- 🇮🇩 [Bahasa Indonesia](README-ID.md) - Dokumentasi lengkap bahasa Indonesia
-
 ## Features
 
 - ✅ Automatic system update (apt update & upgrade)
@@ -16,7 +12,7 @@ Automatic script to install Dokploy with private IP address configuration.
 - ✅ Setup Traefik reverse proxy
 - ✅ Clear progress information with "tegar-aja" prefix
 
-## Quick Start
+## Usage
 
 ### 🚀 One-Liner Installation (Easiest)
 ```bash
