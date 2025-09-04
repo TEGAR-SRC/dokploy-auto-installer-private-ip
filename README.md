@@ -19,14 +19,19 @@ Automatic script to install Dokploy with private IP address configuration.
 ## Quick Start
 
 ### 🚀 One-Liner Installation (Easiest)
+
+**Using curl:**
 ```bash
-# Method 1: Using curl
 curl -sSL https://raw.githubusercontent.com/TEGAR-SRC/dokploy-auto-installer-private-ip/main/one-liner-install.sh | bash
+```
 
-# Method 2: Using wget (if curl not available)
+**Using wget (if curl not available):**
+```bash
 wget -qO- https://raw.githubusercontent.com/TEGAR-SRC/dokploy-auto-installer-private-ip/main/one-liner-install.sh | bash
+```
 
-# Method 3: Download first then run (like aapanel)
+**Download first then run (like aapanel):**
+```bash
 URL=https://raw.githubusercontent.com/TEGAR-SRC/dokploy-auto-installer-private-ip/main/one-liner-install.sh && if [ -f /usr/bin/curl ];then curl -ksSO "$URL" ;else wget --no-check-certificate -O one-liner-install.sh "$URL";fi;bash one-liner-install.sh
 ```
 
