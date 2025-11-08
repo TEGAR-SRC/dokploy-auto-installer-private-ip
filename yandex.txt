@@ -1,0 +1,462 @@
+# YANDEX COMPLETE BLOCKING - ALL SERVICES & SUBDOMAINS
+# Block semua layanan Yandex termasuk AI, search, dan services
+# Update: November 2025
+
+# ============================================
+# YANDEX MAIN DOMAINS - WILDCARD COMPLETE
+# ============================================
+
+# Main domains dengan wildcard
+||yandex.ru^$all
+||yandex.com^$all
+||yandex.net^$all
+||yandex.by^$all
+||yandex.kz^$all
+||yandex.ua^$all
+||yandex.uz^$all
+||yandex.com.tr^$all
+||yandex.az^$all
+||yandex.kg^$all
+||yandex.tj^$all
+||yandex.tm^$all
+||yandex.md^$all
+||yandex.ee^$all
+||yandex.lt^$all
+||yandex.lv^$all
+||yandex.fr^$all
+
+# Ya.ru (Yandex shortdomain)
+||ya.ru^$all
+
+# ============================================
+# YANDEX AI SERVICES
+# ============================================
+
+# YandexGPT / Yandex AI
+||yandexgpt.ru^
+||yandexgpt.com^
+||*.yandexgpt.ru^
+||*.yandexgpt.com^
+||ya-gpt.ru^
+||ya-gpt.com^
+
+# Yandex Alice (AI Assistant)
+||alice.yandex.ru^
+||alice.ya.ru^
+||dialogs.yandex.ru^
+||dialogs.yandex.net^
+||yandex.ru/alice^
+||yandex.com/alice^
+
+# Yandex Neural Networks
+||neural.yandex.ru^
+||neural.yandex.net^
+||ml.yandex.ru^
+||ai.yandex.ru^
+||ai.yandex.com^
+
+# Yandex Cloud AI
+||cloud.yandex.ru^
+||cloud.yandex.com^
+||console.cloud.yandex.ru^
+||api.cloud.yandex.net^
+
+# ============================================
+# YANDEX SEARCH
+# ============================================
+
+# Main search
+||yandex.ru^
+||yandex.com^
+||www.yandex.ru^
+||www.yandex.com^
+||ya.ru^
+
+# Mobile search
+||m.yandex.ru^
+||mobile.yandex.ru^
+||touch.yandex.ru^
+
+# Search API
+||yandex.ru/search^
+||yandex.com/search^
+||xmlsearch.yandex.ru^
+
+# Image Search
+||yandex.ru/images^
+||images.yandex.ru^
+||yandex.com/images^
+
+# Video Search
+||yandex.ru/video^
+||video.yandex.ru^
+
+# ============================================
+# YANDEX BROWSER
+# ============================================
+
+||browser.yandex.ru^
+||browser.yandex.com^
+||browser.yandex.net^
+||yandex.ru/browser^
+||yandex.com/browser^
+||*.browser.yandex.ru^
+||update.browser.yandex.ru^
+||beta.browser.yandex.ru^
+
+# Browser extensions
+||addons.browser.yandex.ru^
+||extensions.browser.yandex.ru^
+
+# ============================================
+# YANDEX TRANSLATE
+# ============================================
+
+||translate.yandex.ru^
+||translate.yandex.com^
+||translate.yandex.net^
+||translate.ya.ru^
+||z5h64q92x9.net^
+||z5h64q92x9.com^
+||*.z5h64q92x9.net^
+
+# Translate API
+||translate.api.cloud.yandex.net^
+||translate-api.cloud.yandex.net^
+
+# ============================================
+# YANDEX MAIL
+# ============================================
+
+||mail.yandex.ru^
+||mail.yandex.com^
+||mail.ya.ru^
+||360.yandex.ru^
+||mail360.yandex.ru^
+
+# ============================================
+# YANDEX DISK (Cloud Storage)
+# ============================================
+
+||disk.yandex.ru^
+||disk.yandex.com^
+||disk.yandex.net^
+||disk.ya.ru^
+||downloader.disk.yandex.ru^
+||webdav.yandex.ru^
+
+# ============================================
+# YANDEX MAPS & GEO
+# ============================================
+
+||maps.yandex.ru^
+||maps.yandex.com^
+||yandex.ru/maps^
+||api-maps.yandex.ru^
+||geocode-maps.yandex.ru^
+||suggest-maps.yandex.ru^
+
+# Yandex Navigator
+||navigator.yandex.ru^
+||mobile-maps.yandex.net^
+
+# ============================================
+# YANDEX MUSIC
+# ============================================
+
+||music.yandex.ru^
+||music.yandex.com^
+||radio.yandex.ru^
+||*.music.yandex.ru^
+
+# ============================================
+# YANDEX VIDEO & STREAMING
+# ============================================
+
+||video.yandex.ru^
+||frontend.vh.yandex.ru^
+||strm.yandex.ru^
+||vh.yandex.ru^
+
+# Yandex Kinopoisk
+||kinopoisk.ru^
+||*.kinopoisk.ru^
+||hd.kinopoisk.ru^
+||sso.kinopoisk.ru^
+
+# ============================================
+# YANDEX ZEN / DZEN
+# ============================================
+
+||zen.yandex.ru^
+||zen.yandex.com^
+||dzen.ru^
+||*.dzen.ru^
+||www.dzen.ru^
+||api.dzen.ru^
+
+# ============================================
+# YANDEX METRICA (Analytics)
+# ============================================
+
+||metrika.yandex.ru^
+||metrica.yandex.com^
+||mc.yandex.ru^
+||mc.yandex.com^
+||mc.yandex.net^
+||mc.yandex.md^
+||mc.yandex.by^
+||mc.yandex.kz^
+||mc.yandex.uz^
+||mc.yandex.com.tr^
+||webvisor.com^
+||*.webvisor.com^
+
+# Metrica API
+||api-metrika.yandex.ru^
+||api-metrika.yandex.net^
+
+# ============================================
+# YANDEX ADS
+# ============================================
+
+||an.yandex.ru^
+||adfox.ru^
+||*.adfox.ru^
+||adfox.net^
+||yandex.ru/ads^
+||ads.yandex.ru^
+||direct.yandex.ru^
+||awaps.yandex.ru^
+||awaps.yandex.net^
+||matchid.adfox.yandex.ru^
+
+# RTB Platform
+||yabs.yandex.ru^
+||bs.yandex.ru^
+||*.yabs.yandex.ru^
+
+# ============================================
+# YANDEX PASSPORT (Auth/SSO)
+# ============================================
+
+||passport.yandex.ru^
+||passport.yandex.com^
+||passport.yandex.net^
+||passport-ckieck.yandex.ru^
+||oauth.yandex.ru^
+||oauth.yandex.com^
+||login.yandex.ru^
+
+# ============================================
+# YANDEX API & SERVICES
+# ============================================
+
+||api.yandex.ru^
+||api.yandex.com^
+||api.yandex.net^
+||suggest.yandex.ru^
+||suggest-maps.yandex.ru^
+||export.yandex.ru^
+
+# DataSync API
+||datasync-api.yandex.ru^
+||datasync-api.yandex.net^
+
+# ============================================
+# YANDEX CDN & STATIC CONTENT
+# ============================================
+
+||yastatic.net^
+||*.yastatic.net^
+||yandex.st^
+||*.yandex.st^
+||avatars.yandex.net^
+||avatars.mds.yandex.net^
+||aerodisk.yandex.ru^
+
+# Images CDN
+||avatars.mds.yandex.net^
+||avatars-fast.yandex.net^
+||storage.mds.yandex.net^
+||downloader.disk.yandex.ru^
+
+# ============================================
+# YANDEX MONEY / YOOMONEY
+# ============================================
+
+||money.yandex.ru^
+||yoomoney.ru^
+||*.yoomoney.ru^
+||yamoney.ru^
+
+# ============================================
+# YANDEX TAXI & DELIVERY
+# ============================================
+
+||taxi.yandex.ru^
+||taxi.yandex.com^
+||taxi.yandex.net^
+||eda.yandex.ru^
+||lavka.yandex.ru^
+||market.yandex.ru^
+
+# ============================================
+# YANDEX GAMES
+# ============================================
+
+||games.yandex.ru^
+||yandex.ru/games^
+
+# ============================================
+# YANDEX WEATHER
+# ============================================
+
+||weather.yandex.ru^
+||yandex.ru/pogoda^
+||pogoda.yandex.ru^
+
+# ============================================
+# YANDEX NEWS & MEDIA
+# ============================================
+
+||news.yandex.ru^
+||yandex.ru/news^
+
+# ============================================
+# YANDEX 360
+# ============================================
+
+||360.yandex.ru^
+||business.yandex.ru^
+||admin.yandex.ru^
+||connect.yandex.ru^
+
+# ============================================
+# YANDEX MESSENGER
+# ============================================
+
+||messenger.yandex.ru^
+||im.ya.ru^
+||chat.yandex.ru^
+
+# ============================================
+# YANDEX DOCUMENTS
+# ============================================
+
+||docs.yandex.ru^
+||editor.yandex.ru^
+
+# ============================================
+# YANDEX MOBILE APPS
+# ============================================
+
+||mobile.yandex.ru^
+||mobile.yandex.net^
+||app.yandex.ru^
+||app.yandex.net^
+
+# ============================================
+# YANDEX DNS SERVERS (Optional - block DNS)
+# ============================================
+
+||dns.yandex.ru^
+||common.dns.yandex.ru^
+||family.dns.yandex.ru^
+||safe.dns.yandex.ru^
+
+# ============================================
+# YANDEX ADDITIONAL SERVICES
+# ============================================
+
+||collections.yandex.ru^
+||calendar.yandex.ru^
+||forms.yandex.ru^
+||notes.yandex.ru^
+||telemost.yandex.ru^
+||personnel.yandex.ru^
+||stations.yandex.ru^
+||quasar.yandex.ru^
+||tutor.yandex.ru^
+
+# ============================================
+# YANDEX PROGRAMMING & DEV
+# ============================================
+
+||yandex.cloud^
+||*.yandex.cloud^
+||cloud-api.yandex.net^
+||dataproc.api.cloud.yandex.net^
+||yandex.ru/dev^
+
+# Yandex Tank (Load Testing)
+||tank.yandex.ru^
+||overload.yandex.net^
+
+# ============================================
+# YANDEX TRACKING & TELEMETRY
+# ============================================
+
+||clck.yandex.ru^
+||appmetrica.yandex.ru^
+||appmetrica.yandex.net^
+||report.appmetrica.yandex.net^
+||push.yandex.ru^
+||mobile.yandex.net/metrica^
+
+# ============================================
+# YANDEX REFERRAL & SHORTLINKS
+# ============================================
+
+||clck.ru^
+||yclck.ru^
+
+# ============================================
+# YANDEX BETA & EXPERIMENTAL
+# ============================================
+
+||beta.yandex.ru^
+||yandex.ru/lab^
+||lab.yandex.ru^
+||experimental.yandex.ru^
+
+# ============================================
+# YANDEX SUBDOMAINS - CATCH ALL
+# ============================================
+
+# Wildcard untuk semua subdomain
+||*.yandex.ru^
+||*.yandex.com^
+||*.yandex.net^
+||*.yandex.by^
+||*.yandex.kz^
+||*.yandex.ua^
+||*.yandex.uz^
+||*.ya.ru^
+
+# ============================================
+# IP RANGES YANDEX (Optional - Advanced)
+# ============================================
+# Uncomment untuk block IP langsung
+# 5.45.192.0/18
+# 5.255.192.0/18
+# 37.9.64.0/18
+# 37.140.128.0/18
+# 77.88.0.0/18
+# 84.201.128.0/18
+# 87.250.224.0/19
+# 93.158.128.0/18
+# 95.108.128.0/17
+# 100.43.64.0/19
+# 130.193.32.0/19
+# 141.8.128.0/18
+# 178.154.128.0/17
+# 185.32.185.0/24
+# 213.180.192.0/19
+
+# ============================================
+# REGEX PATTERNS (Advanced - AdGuard Home Pro)
+# ============================================
+# /^.*yandex\.(ru|com|net)$/
+# /^.*\.yandex\.(ru|com|net)$/
+# /^.*ya\.ru$/
