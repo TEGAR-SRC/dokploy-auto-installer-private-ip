@@ -1,0 +1,460 @@
+# AI Services Blocklist untuk AdGuard Home
+# Update: November 2025
+
+# ============================================
+# CHATBOT AI & LLM PLATFORMS
+# ============================================
+
+# OpenAI (ChatGPT, GPT-4, DALL-E)
+||openai.com^
+||chat.openai.com^
+||api.openai.com^
+||platform.openai.com^
+||chatgpt.com^
+||*.openai.com^
+
+# Anthropic (Claude)
+||anthropic.com^
+||claude.ai^
+||api.anthropic.com^
+||console.anthropic.com^
+||*.anthropic.com^
+
+# Google AI (Gemini, Bard)
+||gemini.google.com^
+||bard.google.com^
+||ai.google^
+||ai.google.com^
+||ai.google.dev^
+||aistudio.google.com^
+||generativelanguage.googleapis.com^
+||makersuite.google.com^
+
+# Microsoft (Copilot, Bing Chat)
+||copilot.microsoft.com^
+||copilot.cloud.microsoft^
+||bing.com/chat^
+||sydney.bing.com^
+||edgeservices.bing.com^
+||www.bing.com/new^
+
+# Meta AI (Llama)
+||ai.meta.com^
+||llama.meta.com^
+||meta.ai^
+
+# Perplexity AI
+||perplexity.ai^
+||*.perplexity.ai^
+||api.perplexity.ai^
+
+# Character.AI
+||character.ai^
+||beta.character.ai^
+||*.character.ai^
+
+# Poe (Quora)
+||poe.com^
+||*.poe.com^
+
+# You.com
+||you.com^
+||api.you.com^
+
+# Replika
+||replika.ai^
+||replika.com^
+||*.replika.ai^
+
+# Jasper AI
+||jasper.ai^
+||*.jasper.ai^
+
+# ChatSonic (Writesonic)
+||writesonic.com^
+||chatsonic.com^
+||*.writesonic.com^
+
+# ============================================
+# IMAGE GENERATION AI
+# ============================================
+
+# Midjourney
+||midjourney.com^
+||*.midjourney.com^
+||discord.gg/midjourney^
+
+# Stable Diffusion Online
+||stablediffusionweb.com^
+||stability.ai^
+||stabilityai.us^
+||*.stability.ai^
+||dreamstudio.ai^
+||beta.dreamstudio.ai^
+
+# DALL-E (sudah di OpenAI tapi tambahan)
+||labs.openai.com^
+
+# Leonardo.AI
+||leonardo.ai^
+||app.leonardo.ai^
+||*.leonardo.ai^
+
+# Playground AI
+||playgroundai.com^
+||*.playgroundai.com^
+
+# Artbreeder
+||artbreeder.com^
+||*.artbreeder.com^
+
+# NightCafe
+||nightcafe.studio^
+||creator.nightcafe.studio^
+
+# Craiyon (DALL-E Mini)
+||craiyon.com^
+||*.craiyon.com^
+
+# DeepAI
+||deepai.org^
+||*.deepai.org^
+
+# Runway ML
+||runwayml.com^
+||*.runwayml.com^
+
+# Adobe Firefly
+||firefly.adobe.com^
+||*.firefly.adobe.com^
+
+# Canva AI
+||*.canva.com/ai^
+
+# ============================================
+# VIDEO GENERATION AI
+# ============================================
+
+# Synthesia
+||synthesia.io^
+||*.synthesia.io^
+
+# D-ID
+||d-id.com^
+||studio.d-id.com^
+||*.d-id.com^
+
+# HeyGen
+||heygen.com^
+||app.heygen.com^
+||*.heygen.com^
+
+# Descript
+||descript.com^
+||*.descript.com^
+
+# Runway (video)
+||runwayml.com^
+
+# Pika Labs
+||pika.art^
+||*.pika.art^
+
+# ============================================
+# CODING AI ASSISTANTS
+# ============================================
+
+# GitHub Copilot
+||copilot.github.com^
+||api.github.com/copilot^
+||*.githubcopilot.com^
+
+# Cursor
+||cursor.sh^
+||cursor.com^
+||*.cursor.sh^
+
+# Tabnine
+||tabnine.com^
+||*.tabnine.com^
+
+# Codeium
+||codeium.com^
+||*.codeium.com^
+
+# Amazon CodeWhisperer
+||codewhisperer.aws^
+||*.codewhisperer.aws.amazon.com^
+
+# Replit AI
+||replit.com/ai^
+
+# Sourcegraph Cody
+||sourcegraph.com/cody^
+||cody.sourcegraph.com^
+
+# Phind
+||phind.com^
+||*.phind.com^
+
+# ============================================
+# SEARCH AI
+# ============================================
+
+# Perplexity (sudah di atas)
+# You.com (sudah di atas)
+
+# Metaphor
+||metaphor.systems^
+||*.metaphor.systems^
+
+# Brave Search AI
+||search.brave.com^
+
+# Neeva
+||neeva.com^
+||*.neeva.com^
+
+# ============================================
+# VOICE/AUDIO AI
+# ============================================
+
+# ElevenLabs
+||elevenlabs.io^
+||*.elevenlabs.io^
+||api.elevenlabs.io^
+
+# Murf AI
+||murf.ai^
+||*.murf.ai^
+
+# Play.ht
+||play.ht^
+||*.play.ht^
+
+# Resemble AI
+||resemble.ai^
+||*.resemble.ai^
+
+# Descript (sudah di atas)
+
+# Voice.ai
+||voice.ai^
+||*.voice.ai^
+
+# ============================================
+# WRITING/CONTENT AI
+# ============================================
+
+# Grammarly AI
+||grammarly.com^
+||*.grammarly.com^
+
+# Copy.ai
+||copy.ai^
+||*.copy.ai^
+
+# Rytr
+||rytr.me^
+||*.rytr.me^
+
+# Notion AI
+||notion.so/product/ai^
+
+# QuillBot
+||quillbot.com^
+||*.quillbot.com^
+
+# Wordtune
+||wordtune.com^
+||*.wordtune.com^
+
+# Sudowrite
+||sudowrite.com^
+||*.sudowrite.com^
+
+# ============================================
+# RESEARCH/ACADEMIC AI
+# ============================================
+
+# Consensus
+||consensus.app^
+||*.consensus.app^
+
+# Elicit
+||elicit.org^
+||*.elicit.org^
+
+# Scispace
+||scispace.com^
+||typeset.io^
+||*.scispace.com^
+
+# Semantic Scholar AI
+||semanticscholar.org^
+
+# Scholarcy
+||scholarcy.com^
+||*.scholarcy.com^
+
+# ============================================
+# PRODUCTIVITY AI
+# ============================================
+
+# Notion AI (sudah di atas)
+
+# Mem
+||mem.ai^
+||*.mem.ai^
+
+# Otter.ai
+||otter.ai^
+||*.otter.ai^
+
+# Fireflies.ai
+||fireflies.ai^
+||*.fireflies.ai^
+
+# Tactiq
+||tactiq.io^
+||*.tactiq.io^
+
+# Krisp
+||krisp.ai^
+||*.krisp.ai^
+
+# ============================================
+# DESIGN AI
+# ============================================
+
+# Uizard
+||uizard.io^
+||*.uizard.io^
+
+# Galileo AI
+||usegalileo.ai^
+||*.usegalileo.ai^
+
+# Khroma
+||khroma.co^
+||*.khroma.co^
+
+# Looka
+||looka.com^
+||*.looka.com^
+
+# ============================================
+# CHINESE AI PLATFORMS
+# ============================================
+
+# Baidu ERNIE
+||yiyan.baidu.com^
+||*.ernie.baidu.com^
+
+# Alibaba Tongyi Qianwen
+||tongyi.aliyun.com^
+||qianwen.aliyun.com^
+
+# Tencent Hunyuan
+||hunyuan.tencent.com^
+
+# Moonshot AI (Kimi)
+||kimi.ai^
+||*.kimi.ai^
+||moonshot.cn^
+
+# Zhipu AI (ChatGLM)
+||zhipuai.cn^
+||chatglm.cn^
+||*.zhipuai.cn^
+
+# ByteDance (Doubao)
+||doubao.com^
+||*.doubao.com^
+
+# iFlytek Spark
+||xinghuo.xfyun.cn^
+||*.xfyun.cn^
+
+# SenseTime
+||sensetime.com/ai^
+
+# ============================================
+# OTHER AI SERVICES
+# ============================================
+
+# Hugging Face
+||huggingface.co^
+||*.huggingface.co^
+
+# Cohere
+||cohere.ai^
+||cohere.com^
+||*.cohere.ai^
+
+# AI21 Labs
+||ai21.com^
+||*.ai21.com^
+
+# Forefront AI
+||forefront.ai^
+||chat.forefront.ai^
+
+# Claude (Slack)
+||slack.com/apps/A04BWDE8BLH^
+
+# Poe API
+||api.poe.com^
+
+# Inferkit
+||inferkit.com^
+||*.inferkit.com^
+
+# Talk to Transformer
+||talktotransformer.com^
+
+# GPT-3 Playground (OpenAI sudah covered)
+
+# Bloom
+||bigscience.huggingface.co^
+
+# LaMDA (Google, sudah covered di Google AI)
+
+# Inflection AI (Pi)
+||pi.ai^
+||*.pi.ai^
+||inflection.ai^
+
+# Adept
+||adept.ai^
+||*.adept.ai^
+
+# Databricks AI
+||*.databricks.com/product/machine-learning/dolly^
+
+# Together AI
+||together.ai^
+||api.together.xyz^
+||*.together.ai^
+
+# Mistral AI
+||mistral.ai^
+||chat.mistral.ai^
+||*.mistral.ai^
+
+# ============================================
+# AI API ENDPOINTS
+# ============================================
+||api.openai.com^
+||api.anthropic.com^
+||generativelanguage.googleapis.com^
+||*.azure-api.net/openai^
+||aiplatform.googleapis.com^
+
+# ============================================
+# CDN & ASSETS untuk AI (optional, bisa skip)
+# ============================================
+# Uncomment jika ingin block total
+# ||cdn.openai.com^
+# ||*.oaistatic.com^
+# ||*.oaiusercontent.com^
