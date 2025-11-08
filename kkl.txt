@@ -1,0 +1,838 @@
+# Blocklist Keamanan Ujian Online - AdGuard Home
+# Untuk mencegah kecurangan dan akses tidak sah saat ujian
+# Update: November 2025
+
+# ============================================
+# MESSAGING & COMMUNICATION
+# ============================================
+
+# WhatsApp
+||whatsapp.com^
+||*.whatsapp.com^
+||web.whatsapp.com^
+||whatsapp.net^
+||*.whatsapp.net^
+||wa.me^
+
+# Telegram
+||telegram.org^
+||*.telegram.org^
+||telegram.me^
+||t.me^
+||web.telegram.org^
+||k.web.telegram.org^
+||z.web.telegram.org^
+||*.telegram.dog^
+||telesco.pe^
+
+# Discord
+||discord.com^
+||*.discord.com^
+||discord.gg^
+||discordapp.com^
+||*.discordapp.com^
+||discord.media^
+
+# Signal
+||signal.org^
+||*.signal.org^
+
+# Facebook Messenger
+||messenger.com^
+||*.messenger.com^
+||m.me^
+
+# Slack
+||slack.com^
+||*.slack.com^
+||*.slack-edge.com^
+
+# Microsoft Teams
+||teams.microsoft.com^
+||teams.live.com^
+||*.teams.microsoft.com^
+
+# Zoom Chat
+||zoom.us^
+||*.zoom.us^
+
+# Skype
+||skype.com^
+||*.skype.com^
+||web.skype.com^
+
+# Google Meet/Chat
+||meet.google.com^
+||chat.google.com^
+||hangouts.google.com^
+
+# LINE
+||line.me^
+||*.line.me^
+
+# WeChat
+||wechat.com^
+||*.wechat.com^
+||weixin.qq.com^
+
+# Viber
+||viber.com^
+||*.viber.com^
+
+# Snapchat
+||snapchat.com^
+||*.snapchat.com^
+
+# KakaoTalk
+||kakao.com^
+||*.kakao.com^
+
+# Instagram DM
+||instagram.com^
+||*.instagram.com^
+
+# Twitter/X DM
+||twitter.com^
+||*.twitter.com^
+||x.com^
+||*.x.com^
+
+# ============================================
+# SOCIAL MEDIA (Lengkap)
+# ============================================
+
+# Facebook
+||facebook.com^
+||*.facebook.com^
+||fb.com^
+||*.fb.com^
+||fbcdn.net^
+||*.fbcdn.net^
+
+# Instagram (sudah di atas, tapi lengkap)
+||instagram.com^
+||*.instagram.com^
+||*.cdninstagram.com^
+
+# TikTok
+||tiktok.com^
+||*.tiktok.com^
+||*.tiktokcdn.com^
+||*.musical.ly^
+
+# Twitter/X (lengkap)
+||twitter.com^
+||*.twitter.com^
+||x.com^
+||*.x.com^
+||twimg.com^
+||*.twimg.com^
+
+# Reddit
+||reddit.com^
+||*.reddit.com^
+||redd.it^
+
+# LinkedIn
+||linkedin.com^
+||*.linkedin.com^
+
+# Pinterest
+||pinterest.com^
+||*.pinterest.com^
+
+# Tumblr
+||tumblr.com^
+||*.tumblr.com^
+
+# Threads (Meta)
+||threads.net^
+||*.threads.net^
+
+# Mastodon instances (contoh)
+||mastodon.social^
+||mastodon.online^
+
+# YouTube (Social aspect - HATI-HATI bisa block video edukasi)
+# ||youtube.com^
+# ||*.youtube.com^
+# ||youtu.be^
+
+# Vimeo
+||vimeo.com^
+||*.vimeo.com^
+
+# Twitch
+||twitch.tv^
+||*.twitch.tv^
+
+# ============================================
+# FILE SHARING & CLOUD STORAGE
+# ============================================
+
+# Google Drive
+||drive.google.com^
+||docs.google.com^
+||sheets.google.com^
+||slides.google.com^
+
+# Dropbox
+||dropbox.com^
+||*.dropbox.com^
+||db.tt^
+
+# OneDrive
+||onedrive.live.com^
+||*.onedrive.com^
+||1drv.ms^
+
+# iCloud Drive
+||icloud.com^
+||*.icloud.com^
+
+# WeTransfer
+||wetransfer.com^
+||*.wetransfer.com^
+||we.tl^
+
+# MediaFire
+||mediafire.com^
+||*.mediafire.com^
+
+# Mega.nz
+||mega.nz^
+||mega.io^
+||*.mega.nz^
+
+# 4shared
+||4shared.com^
+||*.4shared.com^
+
+# Box
+||box.com^
+||*.box.com^
+
+# pCloud
+||pcloud.com^
+||*.pcloud.com^
+
+# Sync.com
+||sync.com^
+||*.sync.com^
+
+# Tresorit
+||tresorit.com^
+||*.tresorit.com^
+
+# Send Anywhere
+||send-anywhere.com^
+||*.send-anywhere.com^
+
+# FileZilla (FTP)
+||filezilla-project.org^
+
+# ============================================
+# TRANSLATION SERVICES
+# ============================================
+
+# Google Translate
+||translate.google.com^
+||translate.googleapis.com^
+
+# DeepL
+||deepl.com^
+||*.deepl.com^
+
+# Microsoft Translator
+||translator.microsoft.com^
+||bing.com/translator^
+
+# Yandex Translate (sudah di Yandex blocklist)
+||translate.yandex.com^
+
+# Reverso
+||reverso.net^
+||*.reverso.net^
+
+# Linguee
+||linguee.com^
+||*.linguee.com^
+
+# Papago (Naver)
+||papago.naver.com^
+
+# Systran
+||systransoft.com^
+||*.systransoft.com^
+
+# ============================================
+# ONLINE ANSWER/HOMEWORK HELP
+# ============================================
+
+# Chegg
+||chegg.com^
+||*.chegg.com^
+
+# Course Hero
+||coursehero.com^
+||*.coursehero.com^
+
+# Brainly
+||brainly.com^
+||*.brainly.com^
+||brainly.co.id^
+||*.brainly.co.id^
+
+# Quizlet
+||quizlet.com^
+||*.quizlet.com^
+
+# Studocu
+||studocu.com^
+||*.studocu.com^
+
+# Scribd
+||scribd.com^
+||*.scribd.com^
+
+# SlideShare
+||slideshare.net^
+||*.slideshare.net^
+
+# Academia.edu
+||academia.edu^
+||*.academia.edu^
+
+# ResearchGate
+||researchgate.net^
+||*.researchgate.net^
+
+# Mathway
+||mathway.com^
+||*.mathway.com^
+
+# Symbolab
+||symbolab.com^
+||*.symbolab.com^
+
+# Wolfram Alpha
+||wolframalpha.com^
+||*.wolframalpha.com^
+
+# Photomath
+||photomath.com^
+||photomath.net^
+||*.photomath.com^
+
+# Socratic (Google)
+||socratic.org^
+||*.socratic.org^
+
+# Yahoo Answers (masih ada?)
+||answers.yahoo.com^
+
+# Quora
+||quora.com^
+||*.quora.com^
+
+# Stack Overflow (hati-hati untuk ujian programming)
+||stackoverflow.com^
+||*.stackoverflow.com^
+||stackexchange.com^
+||*.stackexchange.com^
+
+# GitHub (hati-hati untuk ujian programming)
+||github.com^
+||*.github.com^
+||gist.github.com^
+
+# GitLab
+||gitlab.com^
+||*.gitlab.com^
+
+# Pastebin
+||pastebin.com^
+||*.pastebin.com^
+
+# ============================================
+# SCREEN SHARING & REMOTE DESKTOP
+# ============================================
+
+# TeamViewer
+||teamviewer.com^
+||*.teamviewer.com^
+
+# AnyDesk
+||anydesk.com^
+||*.anydesk.com^
+
+# Chrome Remote Desktop
+||remotedesktop.google.com^
+
+# Microsoft Remote Desktop
+||*.remoteapp.windowsazure.com^
+
+# LogMeIn
+||logmein.com^
+||*.logmein.com^
+
+# VNC Connect
+||realvnc.com^
+||*.realvnc.com^
+
+# Splashtop
+||splashtop.com^
+||*.splashtop.com^
+
+# Parsec
+||parsec.app^
+||*.parsec.app^
+
+# ============================================
+# VPN SERVICES
+# ============================================
+
+# NordVPN
+||nordvpn.com^
+||*.nordvpn.com^
+
+# ExpressVPN
+||expressvpn.com^
+||*.expressvpn.com^
+
+# Surfshark
+||surfshark.com^
+||*.surfshark.com^
+
+# CyberGhost
+||cyberghostvpn.com^
+||*.cyberghostvpn.com^
+
+# ProtonVPN
+||protonvpn.com^
+||*.protonvpn.com^
+
+# Private Internet Access
+||privateinternetaccess.com^
+||*.privateinternetaccess.com^
+
+# IPVanish
+||ipvanish.com^
+||*.ipvanish.com^
+
+# TunnelBear
+||tunnelbear.com^
+||*.tunnelbear.com^
+
+# Windscribe
+||windscribe.com^
+||*.windscribe.com^
+
+# Hotspot Shield
+||hotspotshield.com^
+||*.hotspotshield.com^
+
+# Hola VPN
+||hola.org^
+||*.hola.org^
+
+# Hide.me
+||hide.me^
+||*.hide.me^
+
+# Psiphon
+||psiphon.ca^
+||*.psiphon.ca^
+||psiphon3.com^
+
+# Lantern
+||getlantern.org^
+||*.getlantern.org^
+
+# Betternet
+||betternet.co^
+||*.betternet.co^
+
+# ============================================
+# PROXY & ANONYMIZER
+# ============================================
+
+# HideMyAss
+||hidemyass.com^
+||*.hidemyass.com^
+
+# KProxy
+||kproxy.com^
+||*.kproxy.com^
+
+# ProxySite
+||proxysite.com^
+||*.proxysite.com^
+
+# Hide.me Proxy
+||hide.me/en/proxy^
+
+# CroxyProxy
+||croxyproxy.com^
+||*.croxyproxy.com^
+
+# FilterBypass
+||filterbypass.me^
+||*.filterbypass.me^
+
+# Hidester
+||hidester.com^
+||*.hidester.com^
+
+# 4everproxy
+||4everproxy.com^
+||*.4everproxy.com^
+
+# Anonymouse
+||anonymouse.org^
+||*.anonymouse.org^
+
+# ============================================
+# EMAIL SERVICES (Web-based)
+# ============================================
+
+# Gmail
+||mail.google.com^
+
+# Outlook/Hotmail
+||outlook.live.com^
+||outlook.office.com^
+||hotmail.com^
+
+# Yahoo Mail
+||mail.yahoo.com^
+
+# ProtonMail
+||protonmail.com^
+||*.protonmail.com^
+||proton.me^
+
+# Tutanota
+||tutanota.com^
+||*.tutanota.com^
+
+# Zoho Mail
+||mail.zoho.com^
+
+# GMX
+||gmx.com^
+||*.gmx.com^
+
+# Mail.com
+||mail.com^
+
+# ============================================
+# PARAPHRASING & PLAGIARISM TOOLS
+# ============================================
+
+# QuillBot (sudah di AI list)
+||quillbot.com^
+||*.quillbot.com^
+
+# Grammarly (sudah di AI list)
+||grammarly.com^
+||*.grammarly.com^
+
+# Turnitin (checker - optional)
+# ||turnitin.com^
+# ||*.turnitin.com^
+
+# Plagiarism Checker
+||plagiarismchecker.co^
+||smallseotools.com/plagiarism-checker^
+
+# Paraphrasing Tool
+||paraphrasing-tool.com^
+||*.paraphrasing-tool.com^
+
+# Spinbot
+||spinbot.com^
+||*.spinbot.com^
+
+# Article Rewriter
+||articlerewritertool.com^
+
+# ============================================
+# NOTE TAKING & COLLABORATION
+# ============================================
+
+# Notion (sudah di AI list)
+||notion.so^
+||*.notion.so^
+
+# Evernote
+||evernote.com^
+||*.evernote.com^
+
+# OneNote Online
+||onenote.com^
+||*.onenote.com^
+
+# Google Keep
+||keep.google.com^
+
+# Simplenote
+||simplenote.com^
+||*.simplenote.com^
+
+# Bear
+||bear.app^
+
+# Obsidian (web)
+||obsidian.md^
+
+# Roam Research
+||roamresearch.com^
+||*.roamresearch.com^
+
+# Trello
+||trello.com^
+||*.trello.com^
+
+# Asana
+||asana.com^
+||*.asana.com^
+
+# Monday.com
+||monday.com^
+||*.monday.com^
+
+# ClickUp
+||clickup.com^
+||*.clickup.com^
+
+# ============================================
+# ONLINE CODING PLATFORMS
+# ============================================
+
+# Replit
+||replit.com^
+||*.replit.com^
+||repl.it^
+
+# CodePen
+||codepen.io^
+||*.codepen.io^
+
+# JSFiddle
+||jsfiddle.net^
+||*.jsfiddle.net^
+
+# CodeSandbox
+||codesandbox.io^
+||*.codesandbox.io^
+
+# Glitch
+||glitch.com^
+||*.glitch.com^
+
+# StackBlitz
+||stackblitz.com^
+||*.stackblitz.com^
+
+# IDEOne
+||ideone.com^
+||*.ideone.com^
+
+# OnlineGDB
+||onlinegdb.com^
+||*.onlinegdb.com^
+
+# Programiz
+||programiz.com^
+||*.programiz.com^
+
+# JDoodle
+||jdoodle.com^
+||*.jdoodle.com^
+
+# ============================================
+# ENTERTAINMENT & DISTRACTION
+# ============================================
+
+# Netflix
+||netflix.com^
+||*.netflix.com^
+
+# Disney+
+||disneyplus.com^
+||*.disneyplus.com^
+
+# Prime Video
+||primevideo.com^
+||*.primevideo.com^
+
+# Spotify
+||spotify.com^
+||*.spotify.com^
+
+# Apple Music
+||music.apple.com^
+
+# SoundCloud
+||soundcloud.com^
+||*.soundcloud.com^
+
+# Gaming Platforms
+||store.steampowered.com^
+||steamcommunity.com^
+||epicgames.com^
+||*.epicgames.com^
+||origin.com^
+||battle.net^
+||*.battle.net^
+
+# Roblox
+||roblox.com^
+||*.roblox.com^
+
+# Minecraft
+||minecraft.net^
+||*.minecraft.net^
+
+# Mobile Legends
+||mobilelegends.com^
+||*.mobilelegends.com^
+
+# Free Fire
+||ff.garena.com^
+||*.garena.com^
+
+# PUBG
+||pubgmobile.com^
+||*.pubgmobile.com^
+
+# Genshin Impact
+||genshin.hoyoverse.com^
+||*.hoyoverse.com^
+
+# ============================================
+# NEWS & MEDIA (Optional - tergantung kebijakan)
+# ============================================
+
+# Kompas (Indonesia)
+# ||kompas.com^
+# ||*.kompas.com^
+
+# Detik (Indonesia)
+# ||detik.com^
+# ||*.detik.com^
+
+# Tribun (Indonesia)
+# ||tribunnews.com^
+# ||*.tribunnews.com^
+
+# CNN
+# ||cnn.com^
+# ||*.cnn.com^
+
+# BBC
+# ||bbc.com^
+# ||*.bbc.com^
+
+# ============================================
+# ONLINE SHOPPING (Distraction)
+# ============================================
+
+# Tokopedia
+||tokopedia.com^
+||*.tokopedia.com^
+
+# Shopee
+||shopee.co.id^
+||*.shopee.co.id^
+
+# Lazada
+||lazada.co.id^
+||*.lazada.co.id^
+
+# Bukalapak
+||bukalapak.com^
+||*.bukalapak.com^
+
+# Blibli
+||blibli.com^
+||*.blibli.com^
+
+# Amazon
+||amazon.com^
+||*.amazon.com^
+
+# eBay
+||ebay.com^
+||*.ebay.com^
+
+# AliExpress
+||aliexpress.com^
+||*.aliexpress.com^
+
+# ============================================
+# SCREENSHOT & SCREEN RECORDING
+# ============================================
+
+# Lightshot
+||prnt.sc^
+||*.prnt.sc^
+||app.prntscr.com^
+
+# Imgur
+||imgur.com^
+||*.imgur.com^
+
+# Gyazo
+||gyazo.com^
+||*.gyazo.com^
+
+# ShareX
+||getsharex.com^
+
+# Greenshot
+||getgreenshot.org^
+
+# ============================================
+# ADDITIONAL SECURITY
+# ============================================
+
+# URL Shorteners (bisa bypass blocking)
+||bit.ly^
+||tinyurl.com^
+||goo.gl^
+||ow.ly^
+||is.gd^
+||buff.ly^
+||adf.ly^
+||t.co^
+||shorturl.at^
+||rebrand.ly^
+
+# Web Archives (akses konten blocked)
+||archive.org^
+||web.archive.org^
+||archive.is^
+||archive.today^
+||archive.ph^
+||webcache.googleusercontent.com^
+
+# Internet Speed Test (distraksi)
+||speedtest.net^
+||fast.com^
+
+# ============================================
+# CATATAN PENTING
+# ============================================
+
+# WHITELIST - Jika ada platform ujian yang perlu diakses:
+# @@||lms.university.edu^
+# @@||elearning.university.edu^
+# @@||exam.platform.com^
+# @@||zoom.us^ (jika ujian via Zoom)
+# @@||meet.google.com^ (jika ujian via Meet)
+
+# YouTube Educational - Uncomment jika perlu:
+# @@||youtube.com/education^
+# @@||youtube.com/watch?v=*^
