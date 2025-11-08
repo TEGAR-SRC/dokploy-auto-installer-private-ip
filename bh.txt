@@ -1,0 +1,512 @@
+# Browser & Search Engine Blocklist untuk AdGuard Home
+# Block semua browser alternatif dan search engine selain yang umum
+# Update: November 2025
+
+# ============================================
+# YANDEX (Russia) - COMPLETE BLOCK
+# ============================================
+
+# Yandex Search & Services
+||yandex.ru^
+||yandex.com^
+||yandex.net^
+||yandex.by^
+||yandex.kz^
+||yandex.ua^
+||yandex.uz^
+||ya.ru^
+||*.yandex.ru^
+||*.yandex.com^
+||*.yandex.net^
+
+# Yandex Browser
+||browser.yandex.ru^
+||browser.yandex.com^
+||yandex.com/browser^
+
+# Yandex Services
+||mail.yandex.ru^
+||mail.yandex.com^
+||disk.yandex.ru^
+||disk.yandex.com^
+||passport.yandex.ru^
+||passport.yandex.com^
+||translate.yandex.ru^
+||translate.yandex.com^
+||maps.yandex.ru^
+||music.yandex.ru^
+||video.yandex.ru^
+||zen.yandex.ru^
+||dzen.ru^
+||*.dzen.ru^
+
+# Yandex CDN & Assets
+||yastatic.net^
+||*.yastatic.net^
+||yandex.st^
+||*.yandex.st^
+
+# Yandex Metrica (Analytics)
+||mc.yandex.ru^
+||metrika.yandex.ru^
+||mc.yandex.com^
+
+# Yandex Ads
+||an.yandex.ru^
+||adfox.ru^
+||*.adfox.ru^
+
+# ============================================
+# ALTERNATIVE BROWSERS
+# ============================================
+
+# UC Browser (China - Alibaba)
+||ucweb.com^
+||*.ucweb.com^
+||uc.cn^
+||*.uc.cn^
+||ucbrowser.com^
+||*.ucbrowser.com^
+
+# Opera (China - Kunlun/360)
+||opera.com^
+||*.opera.com^
+||addons.opera.com^
+||opr.com^
+
+# Opera GX
+||operagx.gg^
+||*.operagx.gg^
+
+# Brave Browser
+||brave.com^
+||*.brave.com^
+||brave.software^
+||laptop-updates.brave.com^
+
+# Vivaldi
+||vivaldi.com^
+||*.vivaldi.com^
+||vivaldi.net^
+
+# Maxthon (China)
+||maxthon.com^
+||*.maxthon.com^
+||maxthon.cn^
+
+# QQ Browser (Tencent - China)
+||browser.qq.com^
+||*.browser.qq.com^
+
+# 360 Browser (China)
+||browser.360.cn^
+||se.360.cn^
+||*.360.cn^
+
+# Sogou Browser (China)
+||sogou.com/browser^
+||ie.sogou.com^
+
+# Baidu Browser (China)
+||liulanqi.baidu.com^
+||browser.baidu.com^
+
+# Avast Secure Browser
+||avast.com/secure-browser^
+||*.ff.avast.com^
+
+# AVG Secure Browser
+||avg.com/secure-browser^
+
+# Comodo Dragon/IceDragon
+||comodo.com/home/browsers-toolbars^
+||icedragon.comodo.com^
+
+# SRWare Iron
+||srware.net^
+||*.srware.net^
+
+# Pale Moon
+||palemoon.org^
+||*.palemoon.org^
+
+# Waterfox
+||waterfox.net^
+||*.waterfox.net^
+
+# Torch Browser
+||torchbrowser.com^
+||*.torchbrowser.com^
+
+# Rockmelt (defunct but still)
+||rockmelt.com^
+
+# Epic Privacy Browser
+||epicbrowser.com^
+||*.epicbrowser.com^
+
+# Cent Browser
+||centbrowser.com^
+||*.centbrowser.com^
+
+# Slimjet
+||slimjet.com^
+||*.slimjet.com^
+
+# Basilisk
+||basilisk-browser.org^
+
+# ============================================
+# ALTERNATIVE SEARCH ENGINES
+# ============================================
+
+# DuckDuckGo
+||duckduckgo.com^
+||*.duckduckgo.com^
+||duck.com^
+
+# Baidu (China)
+||baidu.com^
+||*.baidu.com^
+||www.baidu.com^
+
+# Sogou (China)
+||sogou.com^
+||*.sogou.com^
+
+# 360 Search (China - So.com)
+||so.com^
+||*.so.com^
+||haosou.com^
+
+# Shenma (China - Alibaba)
+||sm.cn^
+||*.sm.cn^
+
+# Qihoo 360
+||360.cn^
+||*.360.cn^
+
+# Ask.com
+||ask.com^
+||*.ask.com^
+
+# Ecosia
+||ecosia.org^
+||*.ecosia.org^
+
+# StartPage
+||startpage.com^
+||*.startpage.com^
+||ixquick.com^
+
+# Qwant
+||qwant.com^
+||*.qwant.com^
+
+# Swisscows
+||swisscows.com^
+||*.swisscows.com^
+
+# Mojeek
+||mojeek.com^
+||*.mojeek.com^
+
+# Gibiru
+||gibiru.com^
+||*.gibiru.com^
+
+# MetaGer
+||metager.org^
+||*.metager.org^
+
+# Search Encrypt
+||searchencrypt.com^
+||*.searchencrypt.com^
+
+# Searx/SearXNG instances (open source)
+||searx.me^
+||searx.be^
+||searx.ninja^
+||searxng.org^
+
+# Brave Search
+||search.brave.com^
+
+# You.com (sudah di AI blocklist, tapi double)
+||you.com^
+
+# Neeva
+||neeva.com^
+||*.neeva.com^
+
+# Kagi
+||kagi.com^
+||*.kagi.com^
+
+# Presearch
+||presearch.com^
+||presearch.org^
+||*.presearch.com^
+
+# Gigablast
+||gigablast.com^
+||*.gigablast.com^
+
+# Dogpile
+||dogpile.com^
+||*.dogpile.com^
+
+# WebCrawler
+||webcrawler.com^
+||*.webcrawler.com^
+
+# Excite
+||excite.com^
+||*.excite.com^
+
+# Lycos
+||lycos.com^
+||*.lycos.com^
+
+# AltaVista (masih ada mirror)
+||altavista.com^
+
+# Yahoo Search (optional - Yahoo masih banyak dipakai)
+# ||search.yahoo.com^
+# ||*.search.yahoo.com^
+
+# AOL Search
+||search.aol.com^
+||aol.com/search^
+
+# Yep (Ahrefs)
+||yep.com^
+||*.yep.com^
+
+# Petal Search (Huawei)
+||petalsearch.com^
+||*.petalsearch.com^
+
+# ============================================
+# RUSSIAN BROWSERS & SEARCH
+# ============================================
+
+# Mail.ru Browser & Search
+||mail.ru^
+||*.mail.ru^
+||go.mail.ru^
+||e.mail.ru^
+
+# Rambler
+||rambler.ru^
+||*.rambler.ru^
+||nova.rambler.ru^
+
+# Sputnik Browser
+||browser.sputnik.ru^
+||sputnik.ru^
+
+# Atom Browser
+||browser.ru^
+||atom.mail.ru^
+
+# ============================================
+# CHINESE APPS & BROWSERS
+# ============================================
+
+# WeChat Browser
+||weixin.qq.com^
+||wx.qq.com^
+
+# Tencent QQ
+||qq.com^
+||*.qq.com^
+||im.qq.com^
+
+# Alibaba UC
+||ucweb.com^
+||*.ucweb.com^
+
+# Huawei Browser
+||browser.huawei.com^
+||browser.cloud.huawei.com^
+
+# Xiaomi Browser
+||browser.mi.com^
+||browser.miui.com^
+
+# Oppo Browser
+||browser.oppo.com^
+||browser.heytap.com^
+
+# Vivo Browser
+||browser.vivo.com^
+||browser.vivo.com.cn^
+
+# OnePlus Browser
+||browser.oneplus.com^
+
+# Meizu Browser
+||browser.meizu.com^
+
+# ============================================
+# PRIVACY/ANONYMOUS BROWSERS
+# ============================================
+
+# Tor Browser (optional - comment jika tidak ingin block)
+||torproject.org^
+||*.torproject.org^
+||check.torproject.org^
+
+# I2P
+||geti2p.net^
+||*.geti2p.net^
+
+# Freenet
+||freenetproject.org^
+
+# ============================================
+# MOBILE BROWSERS
+# ============================================
+
+# Samsung Internet
+||galaxy.store^
+||samsunginternet.com^
+||*.samsunginternet.com^
+
+# Mi Browser (Xiaomi)
+||browser.mi.com^
+||browser.miui.com^
+
+# Puffin Browser
+||puffin.com^
+||*.puffin.com^
+
+# Dolphin Browser
+||dolphin.com^
+||*.dolphin.com^
+
+# CM Browser (Cheetah Mobile)
+||cmcm.com^
+||*.cmcm.com^
+
+# 360 Mobile Browser
+||mse.360.cn^
+
+# ============================================
+# OBSOLETE/OLD BROWSERS (untuk completeness)
+# ============================================
+
+# Internet Explorer update domains
+||update.microsoft.com/windowsupdate^
+||ie.microsoft.com^
+
+# Netscape (masih ada yang pakai?)
+||netscape.com^
+
+# ============================================
+# ALTERNATIVE WEB PORTALS
+# ============================================
+
+# MSN (optional)
+# ||msn.com^
+# ||*.msn.com^
+
+# Naver (Korea)
+||naver.com^
+||*.naver.com^
+||search.naver.com^
+
+# Daum (Korea)
+||daum.net^
+||*.daum.net^
+||search.daum.net^
+
+# Goo (Japan)
+||goo.ne.jp^
+||*.goo.ne.jp^
+
+# Biglobe (Japan)
+||biglobe.ne.jp^
+||search.biglobe.ne.jp^
+
+# @nifty (Japan)
+||nifty.com^
+||search.nifty.com^
+
+# Seznam (Czech)
+||seznam.cz^
+||*.seznam.cz^
+
+# Onet (Poland)
+||onet.pl^
+||*.onet.pl^
+
+# Centrum (Czech)
+||centrum.cz^
+||*.centrum.cz^
+
+# ============================================
+# DOWNLOAD SITES FOR BROWSERS
+# ============================================
+||ninite.com^
+||filehippo.com^
+||softonic.com^
+||download.cnet.com^
+||majorgeeks.com^
+
+# ============================================
+# BROWSER EXTENSIONS STORES (Optional)
+# ============================================
+# Chrome Web Store - HATI-HATI ini bisa block extension Chrome
+# ||chrome.google.com/webstore^
+
+# Firefox Add-ons - HATI-HATI ini block extension Firefox
+# ||addons.mozilla.org^
+
+# Opera Add-ons
+||addons.opera.com^
+
+# Edge Add-ons - HATI-HATI
+# ||microsoftedge.microsoft.com/addons^
+
+# ============================================
+# VPN BROWSERS & SERVICES
+# ============================================
+
+# Opera VPN
+||opera-proxy.net^
+
+# Hola VPN Browser
+||hola.org^
+||*.hola.org^
+
+# Turbo VPN
+||turbovpn.com^
+||*.turbovpn.com^
+
+# ============================================
+# TRACKING & ANALYTICS (Bonus)
+# ============================================
+
+# Browser fingerprinting
+||fingerprintjs.com^
+||*.fingerprintjs.com^
+
+# Browser detection
+||browscap.org^
+||*.browscap.org^
+
+# ============================================
+# CATATAN WHITELIST (Jika ingin allow)
+# ============================================
+# Uncomment untuk ALLOW browser/search tertentu:
+# @@||google.com^
+# @@||bing.com^
+# @@||microsoft.com^
+# @@||mozilla.org^
+# @@||firefox.com^
+# @@||chrome.com^
+# @@||chromium.org^
+# @@||edge.microsoft.com^
